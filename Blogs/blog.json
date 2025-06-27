@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "title": "Books",
+      "content": "Book reading is the best practice to memory power increase.",
+      "id": "1"
+    },
+    {
+      "id": "ebc4",
+      "title": "Maha Bharatha",
+      "content": "It 's a crucial story. And very old story"
+    },
+    {
+      "id": "6b8d",
+      "title": "Ramayanam",
+      "content": "Ravanan kitnaped Seetha and so Raman get angry to ravanan."
+    }
+  ]
+}
